@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:android="http://schemas.android.com/apk/res/android" height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <path d="M6,12m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" fill="#0066DD"/>
-    <path d="M12,12m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" fill="#0066DD"/>
-    <path d="M18,12m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" fill="#0066DD"/>
-</svg>
