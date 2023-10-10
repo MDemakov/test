@@ -1,0 +1,18 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="false">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/radius_extra_large" />
+            <solid android:color="@color/google_button_color_default" />
+        </shape>
+
+    </item>
+
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/radius_extra_large" />
+            <solid android:color="@color/google_button_color_active" />
+        </shape>
+
+    </item>
+</selector>
