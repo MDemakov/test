@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:android="http://schemas.android.com/apk/res/android" height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M4,1L20,1A3,3 0,0 1,23 4L23,20A3,3 0,0 1,20 23L4,23A3,3 0,0 1,1 20L1,4A3,3 0,0 1,4 1z" fill="#ffffff" stroke="#65B812" stroke-width="2"/>
+</svg>
